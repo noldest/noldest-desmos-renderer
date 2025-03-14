@@ -1,4 +1,6 @@
-## noldest's recreation of Junferno's Desmos Renderer
+# noldest's recreation of Junferno's Desmos Renderer
+
+![Desmos](https://github.com/user-attachments/assets/cb3a5271-b3d8-47c7-a9ec-5dfb64ca3dfd)
 
 [The video that goes over how I made this](https://youtu.be/4dx3xqoDRgQ)
 
