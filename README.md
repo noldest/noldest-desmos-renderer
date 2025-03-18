@@ -9,10 +9,11 @@ This Desmos Renderer is based heavily on [Junferno's version](https://www.youtub
 
 *also the lines in the final version will jitter between colors (i think its pretty)*
 
-The performance isn't fantastic, it takes a few minutes (like up to 30 minutes if larger video) to download stuff and run a bunch of convertions, then it renders the frames at approximately 10-25 seconds per frame
+The performance isn't fantastic, it takes a few minutes (like up to 30 minutes if larger video) to download stuff and run a bunch of convertions, then it renders the frames at approximately 10-25 seconds per frame. I recommend you get a video that's 360p because that makes rendering easier.
 
 Sample results:
 - https://youtu.be/FM4vUxgZyVo
+- https://youtu.be/CaOsqM0kZLA
 
 
 Go open the Jupyter Notebook in colab, I put everything on there.
